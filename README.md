@@ -4,4 +4,4 @@
 - Prompt the user for 
 - Prompt the user for 
 - Print 
-  - Outpute `var`
+  - Output `var`
