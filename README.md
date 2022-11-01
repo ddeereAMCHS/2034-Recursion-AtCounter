@@ -1,6 +1,6 @@
 # At Counter
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Fri 11/4 at 11:59 PM
 
 - Create a program called `AtCounter.java`
 - Create a recursive method that:
