@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "1234, 2, 2",
+      "name": "mat1.txt, 2, 2",
       "setup": "javac AtCounter.java",
       "run": "java AtCounter",
       "input": "mat1.txt\r\n2\r\n2",
@@ -11,7 +11,7 @@
       "points": null
     },
     {
-      "name": "1234, 9, 8",
+      "name": "mat1.txt, 9, 8",
       "setup": "javac AtCounter.java",
       "run": "java AtCounter",
       "input": "mat1.txt\r\n9\r\n8",
@@ -21,7 +21,7 @@
       "points": null
     },
     {
-      "name": "1234, 8, 0",
+      "name": "mat1.txt, 8, 0",
       "setup": "javac AtCounter.java",
       "run": "java AtCounter",
       "input": "mat1.txt\r\n8\r\n0",
@@ -31,7 +31,7 @@
       "points": null
     },
     {
-      "name": "500, 1, 0",
+      "name": "mat2.txt, 1, 0",
       "setup": "javac AtCounter.java",
       "run": "java AtCounter",
       "input": "mat2.txt\r\n1\r\n0",
@@ -41,7 +41,7 @@
       "points": null
     },
     {
-      "name": "500, 1, 6",
+      "name": "mat2.txt, 1, 6",
       "setup": "javac AtCounter.java",
       "run": "java AtCounter",
       "input": "mat2.txt\r\n1\r\n6",
@@ -51,7 +51,7 @@
       "points": null
     },
     {
-      "name": "500, 3, 5",
+      "name": "mat2.txt, 3, 5",
       "setup": "javac AtCounter.java",
       "run": "java AtCounter",
       "input": "mat2.txt\r\n3\r\n5",
