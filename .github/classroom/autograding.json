@@ -7,7 +7,7 @@
       "input": "mat1.txt\r\n2\r\n2",
       "output": "The matrix at location [2][2] has 23 @ symbols",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "mat1.txt\r\n9\r\n8",
       "output": "The matrix at location [9][8] has 32 @ symbols",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "mat1.txt\r\n8\r\n0",
       "output": "The matrix at location [8][0] has 0 @ symbols",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "mat2.txt\r\n1\r\n0",
       "output": "The matrix at location [1][0] has 31 @ symbols",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -47,7 +47,7 @@
       "input": "mat2.txt\r\n1\r\n6",
       "output": "The matrix at location [1][6] has 5 @ symbols",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -57,7 +57,7 @@
       "input": "mat2.txt\r\n3\r\n5",
       "output": "The matrix at location [3][5] has 0 @ symbols",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
